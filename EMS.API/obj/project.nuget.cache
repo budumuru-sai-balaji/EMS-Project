@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "44xmCE2HbMA=",
+  "success": true,
+  "projectFilePath": "E:\\2026\\EMS-Project\\EMS.API\\EMS.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SaiBa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\SaiBa\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
